@@ -2,7 +2,7 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hospotho?cardType=level-alternate&theme=blueberry&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hospotho&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hospotho&layout=compact&theme=blueberry)
 
 
 <!--
