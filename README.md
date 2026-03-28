@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hospotho&count_private=true&show_icons=false&theme=blueberry#000)
+![Anurag's GitHub stats](./profile/stats.svg)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hospotho&layout=compact&theme=blueberry)
+![Top Langs](./profile/top-langs.svg)
 
 <!--
 **hospotho/hospotho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
